@@ -1,18 +1,18 @@
 {
     "api": {
         "discord": {
-            "token": "[bot token goes here]"
+            "token": "[Nzk0Nzc4MDM4NTMzMjI2NTc2.X-_wug.tWLWHtERCq34w0xGPGzAuJvXEzI]"
         }
     },
     "games": [
         {
-            "name": "exampleName",
-            "prettyName": "Example Name",
+            "name": "HavenBot",
+            "prettyName": "HavenBot",
             "path": "/tmp/foobar.z5"
         }
     ],
     "settings": {
-        "commandPrefix": "$",
+        "commandPrefix": "!",
         "commentPrefix": "//",
         "adminCode": "replacethis"
     }
